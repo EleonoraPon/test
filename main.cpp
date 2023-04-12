@@ -2,7 +2,7 @@
 
 void f()
 {
-	int x = 10;
+	int z = 15;
 	int y = 11;
 }
 
