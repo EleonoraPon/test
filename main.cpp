@@ -6,7 +6,7 @@ void f()
 	int y = 11;
 	
 	
-	double rrrrr = 10;
+	double N = 10;
 }
 
 int main()
