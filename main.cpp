@@ -4,6 +4,9 @@ void f()
 {
 	int z = 15;
 	int y = 11;
+	
+	
+	double N = 10;
 }
 
 int main()
