@@ -1,6 +1,6 @@
 #include <iostream>
 
-void f()
+void f(int x)
 {
 	int z = 15;
 	int y = 11;
